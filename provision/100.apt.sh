@@ -1,6 +1,7 @@
 #!/bin/bash
 apt-get update --yes
 apt-get upgrade --yes
+apt-get install --yes npm
 apt-get install --yes nginx
 apt-get install --yes php
 sudo debconf-set-selections <<< 'mysql-server-5.7 mysql-server/root_password password root'
