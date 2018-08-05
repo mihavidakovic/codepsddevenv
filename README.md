@@ -10,4 +10,8 @@
 
 ## 3. navigate to repo and do "make codepsd" command.
 
-## 4. You are ready to develop!
+## 4. start it all up with "vagrant up" command.
+
+## 5. your page is on 'local.codepsd.si'.
+
+## 6. You are ready to develop!
